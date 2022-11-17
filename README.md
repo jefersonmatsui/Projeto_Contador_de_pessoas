@@ -2,7 +2,7 @@
 
 Criação do primeiro app utilizando Flutter no Android Studio.
 
-## Contagem de pessoas que entra e saem do estabelecimento com capacidade de 20 pessoas.
+Contagem de pessoas que entra e saem do estabelecimento com capacidade de 20 pessoas.
 
 ## Conteúdo
 1. Estrutura do Projeto;
