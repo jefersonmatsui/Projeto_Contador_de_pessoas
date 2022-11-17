@@ -1,16 +1,14 @@
-# contador
+# Contador de Pessoas
 
-A new Flutter project.
+Criação do primeiro app utilizando Flutter no Android Studio.
 
-## Getting Started
+## Contagem de pessoas que entra e saem do estabelecimento com capacidade de 20 pessoas.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Conteúdo
+1. Estrutura do Projeto;
+2. Container, MaterialApp, Text;
+3. Coluna e textos;
+4. Botão, Linha;,
+5. Personalizando o Botão e Padding;
+6. Imagem de Fundo;
+7. Stateless e Stateful
